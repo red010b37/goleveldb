@@ -14,15 +14,15 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/btcsuite/goleveldb/leveldb/cache"
-	"github.com/btcsuite/goleveldb/leveldb/comparer"
-	"github.com/btcsuite/goleveldb/leveldb/errors"
-	"github.com/btcsuite/goleveldb/leveldb/filter"
-	"github.com/btcsuite/goleveldb/leveldb/iterator"
-	"github.com/btcsuite/goleveldb/leveldb/opt"
-	"github.com/btcsuite/goleveldb/leveldb/storage"
-	"github.com/btcsuite/goleveldb/leveldb/util"
-	"github.com/btcsuite/snappy-go"
+	"github.com/red010b37/goleveldb/leveldb/cache"
+	"github.com/red010b37/goleveldb/leveldb/comparer"
+	"github.com/red010b37/goleveldb/leveldb/errors"
+	"github.com/red010b37/goleveldb/leveldb/filter"
+	"github.com/red010b37/goleveldb/leveldb/iterator"
+	"github.com/red010b37/goleveldb/leveldb/opt"
+	"github.com/red010b37/goleveldb/leveldb/storage"
+	"github.com/red010b37/goleveldb/leveldb/util"
+	"github.com/red010b37/snappy-go"
 )
 
 // Reader errors.

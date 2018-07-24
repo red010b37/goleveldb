@@ -1,7 +1,7 @@
-module github.com/btcsuite/goleveldb
+module github.com/red010b37/goleveldb
 
 require (
-	github.com/btcsuite/snappy-go v1.0.0
+	github.com/red010b37/snappy-go v1.0.0
 	github.com/onsi/ginkgo v1.6.0
 	github.com/onsi/gomega v1.4.1
 	golang.org/x/net v0.0.0-20180719180050-a680a1efc54d // indirect
